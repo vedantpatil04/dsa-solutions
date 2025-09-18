@@ -1,6 +1,6 @@
 ## 🚀 Goals
 - Solve at least one problem daily to stay consistent.  
-- Strengthen core concepts of **Data Structures & Algorithms 
+- Strengthen core concepts of Data Structures & Algorithms 
 - Maintain a clean, professional repo for interview prep and revision.  
 
 ## 🛠️ Languages Used
@@ -13,7 +13,7 @@
 
 ## 🌟 Progress
 - Started my DSA journey → 📅 2025  
-- Committing solutions **daily** to keep streak alive 💚  
+- Committing solutions daily to keep streak alive 💚  
 - Growing step by step 🚀  
 
 ## 🔗 Profiles
