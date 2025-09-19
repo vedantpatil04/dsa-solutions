@@ -16,8 +16,7 @@
 - Committing solutions daily to keep streak alive 💚  
 - Growing step by step 🚀  
 
-## 🔗 Profiles
-- [LeetCode]((https://leetcode.com/u/vedantpatil04/))  
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/vedantpatil04/)  
-
+## 🔗 Profiles;';';';';';';';''''A
+- [LeetCode] [[((https://leetcode.com/u/vedantpatil04/)](https://leetcode.com/u/vedantpatil04/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/vedantpatil04/)
 💡 One problem a day keeps fear away!🚀
