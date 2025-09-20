@@ -18,5 +18,6 @@
 
 ## 🔗 Profiles
 - [LeetCode] [[((https://leetcode.com/u/vedantpatil04/)](https://leetcode.com/u/vedantpatil04/)
-- [GeeksforGeeks][(https://www.geeksforgeeks.org/user/vedantpatil04/)] 
+- [GeeksforGeeks][(https://www.geeksforgeeks.org/user/vedantpatil04/)]
+
 💡 One problem a day keeps fear away!🚀
